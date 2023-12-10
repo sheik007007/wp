@@ -1,0 +1,9 @@
+{
+	"name": "WordPressDB",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47599e1b-1455-41bb-ad6e-bfff6fd218bc",
+		"tenantId": "bdc28afb-608d-4560-be2d-e31523cc0f7b"
+	}
+}
